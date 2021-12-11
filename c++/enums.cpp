@@ -22,7 +22,7 @@
 using namespace std;
 
 typedef int marks;
-typedef int rolllNo;
+typedef int rollNo;
 
 
 int main(){
