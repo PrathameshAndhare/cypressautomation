@@ -1,0 +1,10 @@
+1)Dynamic declaration --->
+
+    if you have to declare a variable and use it inside loops , then instead of declaring it before
+    int main(), you can declare it directly inside loop . By this you can use your memory space 
+    effectively . After comming outside loop , the variable declared will be deleted and hence you can 
+    use that space to store something else.
+
+    Declare only that variables outside that are needed throughout execution. Improve code quality. 
+
+ 
