@@ -36,6 +36,8 @@ console.log('-------------')
 function sub(x,y){
     console.log(x-y)
 }
+console.log("-----------------")
+
 
 sub(20,8)
 sub(125,5)
